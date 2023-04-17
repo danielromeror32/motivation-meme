@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+.poster{
+    margin-top: 50px;
+    width: 40%;
+    margin-left: 30%; /* 30 + 40 + 30*/
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+
+#image-wake{
+    width: 100%;
+    border: 5px solid white;
+    /* margin-left: 40px; */
+
+}
